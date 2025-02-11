@@ -8,7 +8,7 @@ Highlighting function within Excel, working with basic formula, Pivot tables, Ch
 
 Image shows a chart from completed Tasks
 
-Conditional Formatting
+Using conditional formatting to clearly identify the highest and lowest average scores
 
 ![image](https://github.com/user-attachments/assets/35d84cf3-83b3-4cd0-9762-93c830fc54c2)
 
