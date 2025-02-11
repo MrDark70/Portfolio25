@@ -3,6 +3,17 @@ Hi My name is James Dark
 
 Tableau
 -------
+Understanding the fundamentals of tableau, exploringn the different versions that are available,
+
+Creating Dashboards
+
+![image](https://github.com/user-attachments/assets/375cc4e0-1e69-44d9-bce3-02a4c9f51ca2)
+
+Conducting an analysis to find trends and key information that could be used by an organisation for future projects. 
+
+![image](https://github.com/user-attachments/assets/e5e38784-de6e-4ca6-996b-56d039b12811)
+![image](https://github.com/user-attachments/assets/d8de4464-f392-419a-a37e-fa3369780472)
+![image](https://github.com/user-attachments/assets/b8cdcfc7-d7d9-4536-8d67-989a49e5bf2b)
 
 
 
