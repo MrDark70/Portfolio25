@@ -6,15 +6,18 @@ Excel
 
 Highlighting function within Excel, working with basic formula, Pivot tables, Charts
 
-Image shows a chart from a completed Task
+Image shows a chart from completed Tasks
 
 Conditional Formatting
+
 ![image](https://github.com/user-attachments/assets/35d84cf3-83b3-4cd0-9762-93c830fc54c2)
 
 Stacked Bar chart
+
 ![image](https://github.com/user-attachments/assets/4e8a860d-26d2-4bdf-980d-784b590d37df)
 
 Line chart
+
 ![image](https://github.com/user-attachments/assets/78de1745-fe99-45c5-8338-82e0c110da7f)
 
 
