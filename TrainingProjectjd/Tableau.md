@@ -3,7 +3,7 @@ Hi My name is James Dark
 
 Tableau
 -------
-Understanding the fundamentals of tableau, exploringn the different versions that are available,
+Understanding the fundamentals of tableau, exploring the different versions and how functionality differs depending on the version in use.
 
 Creating Dashboards
 
