@@ -3,12 +3,17 @@ Hi My name is James Dark
 
 Excel
 -----
+
+Highlighting function within Excel, working with basic formula, Pivot tables, Charts
+
+Image shows a chart from a completed Task
+
 ![image](https://github.com/user-attachments/assets/4e8a860d-26d2-4bdf-980d-784b590d37df)
 
 
 
 ### Skills
-
+Excel, Data visualisation using Bar and line charts
 
 
 
