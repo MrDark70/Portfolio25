@@ -6,7 +6,7 @@ Excel
 
 Highlighting functions within Excel, working with formulas, Conditional formatting, nested functions, Pivot tables and Charts
 
-Image shows a chart from completed Tasks
+Images shows screenshots taken from completed workbook Tasks
 
 Using conditional formatting to clearly identify the highest and lowest average scores
 
