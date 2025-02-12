@@ -3,6 +3,8 @@ Hi My name is James Dark
 
 Python
 ------
+Python syntax, Pandas DataFrame exercises, and Nested functions.
+
 
 
 
