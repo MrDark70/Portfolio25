@@ -3,11 +3,12 @@ Hi My name is James Dark
 
 SQL
 ---
+SQL training on basic query structure covering fundamental concepts to retrieve and manipulate data efficiently. 
 
 
 
 ### Skills
-
+SQL
 
 
 
