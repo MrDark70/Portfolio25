@@ -3,14 +3,12 @@ Hi My name is James Dark
 
 Power BI
 --------
+Power BI training focused on data visualization, analysis, and reporting using Microsoft's business intelligence tool.
 
 
 
 ### Skills
-
-
-
-
+Power BI, Explore, Transform and Load, Visulisations
 
 ### Socials
 
