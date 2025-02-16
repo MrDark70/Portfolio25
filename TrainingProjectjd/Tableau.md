@@ -3,7 +3,8 @@ Hi My name is James Dark
 
 Tableau
 -------
-Understanding the fundamentals of tableau, exploring the different versions and how functionality differs depending on the version in use.
+This Tableau training focused on key features that enhance data analysis and reporting. Learnt how to create impactful visualizations to represent data clearly and effectively. 
+
 
 Creating Dashboards
 
