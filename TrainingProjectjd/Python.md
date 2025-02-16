@@ -3,15 +3,11 @@ Hi My name is James Dark
 
 Python
 ------
-Python syntax, Pandas DataFrame exercises, and Nested functions.
-
-
+This Python training introduced the fundamentals of programming, with basic functions to perform common tasks and operations. Explore essential libraries such as NumPy, Pandas, and Matplotlib.
 
 
 ### Skills
-
-
-
+Python
 
 
 ### Socials
