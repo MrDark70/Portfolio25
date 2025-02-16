@@ -4,7 +4,7 @@ Hi My name is James Dark
 Excel
 -----
 
-Highlighting functions within Excel, working with formulas, Conditional formatting, nested functions, Pivot tables and Charts
+This Excel training covered essential tools for data analysis and presentation, focusing on Pivot Tables and Visualizations. 
 
 Images shows screenshots taken from completed workbook Tasks
 
